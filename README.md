@@ -4,8 +4,8 @@ Este repositório contém um estudo de **previsão de falhas** de fancoils em UT
 
 ## Conteúdo
 
-- `src/avaliacao_hospital_darcy_vargas.ipynb`: Código Python para calcular a PDF e CDF de falhas de fancoils.
-- `dados/records_failure_in_days_hidv.csv`: Dados de falhas reais de um fancoil, medidos em dias.
+- `avaliacao_hospital_darcy_vargas.ipynb`: Código Python para calcular a PDF e CDF de falhas de fancoils.
+- `records_failure_in_days_hidv.csv`: Dados de falhas reais de um fancoil, medidos em dias.
 - Este **README.md** para guiar o uso do repositório.
 
 ## Como rodar o código
