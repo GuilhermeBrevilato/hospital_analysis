@@ -12,4 +12,4 @@ Este repositório contém um estudo de **previsão de falhas** de fancoils em UT
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/GuilhermeBrevilato/hospital_analysis.git
+   git clone https://github.com/GuilhermeBrevilato/previsao-falhas-fancoil.git
